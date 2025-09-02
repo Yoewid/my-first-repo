@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main()
+{
+    int width, height, area;
+    scanf("%d %d", &width,&height);
+    area = width * height;
+    printf ("%d" ,area);
+    return 0;
+}
