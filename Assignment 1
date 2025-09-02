@@ -1,3 +1,4 @@
+//Sesi-1
 #include <stdio.h>
 
 int main()
@@ -7,4 +8,12 @@ int main()
     area = width * height;
     printf ("%d" ,area);
     return 0;
+}
+//Sesi-2
+#include <stdio.h>
+
+int main()
+{
+    printf("My name is Farel Zyan.");
+    printf(" And my favorite programming language is C++");
 }
