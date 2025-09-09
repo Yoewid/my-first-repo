@@ -1,0 +1,19 @@
+// 09-09-2025
+#include <stdio.h> 
+
+int main()
+{
+    char str[50] = "money";
+    printf("%20s\n", str);
+    
+    int a = 10;
+    int b = 2000;
+    int c = 30000000;
+    
+    printf("%20d\n", a);
+    printf("%20d\n", b);
+    printf("%20d\n", c);
+}
+/* 
+I should try math, (<math.h>)
+/*
